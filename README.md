@@ -1,6 +1,6 @@
 <center>
     <tr>
-        <td><img width="800px" align="center" src="https://user-images.githubusercontent.com/92948655/164938513-4197e478-d9a2-4b82-a4da-fbb3dd1e7938.png" /></td>
+        <td><img width="950px" align="center" src="https://user-images.githubusercontent.com/92948655/164943450-e8b3b5c3-4a92-44d9-be71-382a3e9fb5cb.png" /></td>
     </tr>  
 </center> 
 
@@ -17,7 +17,11 @@
 
 ---
 
-Apresentação pessoal! 
+Meu nome é Wanessa, sou mestra em Engenharia Química, apaixonada por estudar e aprender novas habilidades, defensora do pensamento científico. 
+
+Entre os períodos de graduação e pós, sempre estive envolvida em atividades acadêmicas, tendo publicado dois artigos em revistas internacionais na área de Fluidodinâmica Computacional. 
+
+No ano de 2020, ao conhecer um pouco mais sobre a área de ciência de dados, enxerguei ali uma nova e linda oportunidade de carreira. Atualmente tenho criado conhecimentos e experiências nas áreas de análise e ciência de dados por meio de cursos, meetpus, projetos e participação em comunidades femininas voltadas para as áreas de programação em Python e Inteligência Artificial.
 
 ---
 
