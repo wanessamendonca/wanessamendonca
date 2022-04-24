@@ -12,11 +12,11 @@
 
 ---
 
-Meu nome é Wanessa, sou mestra em Engenharia Química, apaixonada por estudar e aprender novas habilidades, defensora do pensamento científico. 
+Meu nome é Wanessa, sou mestra em Engenharia Química e uma eterna apaixonada por estudar e aprender novas habilidades.
 
-Entre os períodos de graduação e pós, sempre estive envolvida em atividades acadêmicas, tendo publicado dois artigos em revistas internacionais na área de Fluidodinâmica Computacional. 
+Atualmente estou em um processo de transição de carreira para as áreas de ciência e análise de dados. Por aqui, você conhece um pouco mais sobre os projetos que tenho desenvolvido e como tenho crescido nos meus estudos, portanto, fique à vontade!
 
-No ano de 2020, ao conhecer um pouco mais sobre a área de ciência de dados, enxerguei ali uma nova e linda oportunidade de carreira. Atualmente tenho criado conhecimentos e experiências nas áreas de análise e ciência de dados por meio de cursos, meetpus, projetos e participação em comunidades femininas voltadas para as áreas de programação em Python e Inteligência Artificial.
+Os projetos dos quais mais me orgulho de ter feito e participado do desenvolvimento estão nos fixados, logo ali embaixo 👇🏼
 
 ---
 
